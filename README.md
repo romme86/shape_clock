@@ -1,15 +1,13 @@
-# Flutter Clock
+# ShapeClock 4 Flutter Clock Contest
 
-Welcome to Flutter Clock!
+The idea is that every point is a unit.
+Therefore:
 
-See [flutter.dev/clock](https://flutter.dev/clock) for how to get started, submission requirements, contest rules, and FAQs.
+<img src='/ss_shape_clock.jpg' width='350'>
 
-See a [live demo](https://maryx.github.io/flutter_clock) with Flutter for Web!
+Is 18:40 32sec of a sunny day
 
-Example [Analog Clock](analog_clock)
+That's it.
 
-<img src='analog_clock/analog.gif' width='350'>
-
-Example [Digital Clock](digital_clock)
-
-<img src='digital_clock/digital.gif' width='350'>
+I would appreaciate suggestions on my code choices or other topics if you have some :)
+Have a nice day!
